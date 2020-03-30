@@ -3,8 +3,13 @@ This file update from local by BREG001
 update from remote by BREG001
 
 
-<<<<<<< HEAD
+
+
 
 BRANCH_2
-=======
->>>>>>> b_1 new file
+
+
+
+
+
+
